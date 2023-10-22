@@ -1,0 +1,17 @@
+{
+    "deviceOrientation": "portrait",
+    "openDataContext": "openDataContext",
+    "networkTimeout": {
+        "request": 5000,
+        "connectSocket": 5000,
+        "uploadFile": 5000,
+        "downloadFile": 500000
+    },
+    "plugins": {
+    "Layout": {
+        "version": "1.0.5",
+        "provider": "wx7a727ff7d940bb3f",
+        "contexts":[{"type":"openDataContext"}]
+    }
+}
+}

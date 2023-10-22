@@ -1,0 +1,12 @@
+{
+  "name": "rps",
+  "uuid": "764c660a-f708-4ea5-b869-bbeb70fe97e8",
+  "creator": {
+    "version": "3.8.0"
+  },
+  "dependencies": {
+    "minigame-canvas-engine": "^1.0.15",
+    "tsrpc-miniapp": "^3.4.13",
+    "websocket-ts": "^2.1.4"
+  }
+}
